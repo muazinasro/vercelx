@@ -1,4 +1,4 @@
-baseurl = "https://getiphone.netlify.app/"  # Include trailing slash
+baseurl = "https://getiphones.vercel.app/"  # Include trailing slash
 title = "Get iPhones"
 theme = "hugo-swift-theme"
 # theme = "swift"
