@@ -16,15 +16,15 @@ pygmentsCodefencesGuessSyntax = true
     name = "Rif'an Muazin"
     url = "http://fb.me/rifanmuazin.fanspage"
   [[params.authors]]
-    name = "yourName" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
-    fullName = "Your Full Name" # optional. If set, it will display on author card
-    bio = "It's time to flex. Write a short or not-so-short summary about yourself."
+    name = "Rifan Muazin" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
+    fullName = "Rifan Muazin" # optional. If set, it will display on author card
+    bio = "Rifan Muazin Ibnu Asro Ibnu Basiran Ibnu Sagoh Ibnu Surosenen Ar-Rifa'i."
     photo = "myPhotoFile.jpg"
-    url = "https://myURLofChoice.domain"
+    url = "https://rifanmuazin.now.sh"
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
 
-  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "" # twitter handle e.g @weru
+   ga_verify = "JGVH4KpQ-lQSt92-Tk7vaV_80oYPSAayovEa6PKQP5Y" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
+   twitter = "@MuazinAsro" # twitter handle e.g @weru
   # logo = "logo.png"
   # author = "Weru" # default author
   # image = "placeholder-image.png" # used whenever a page image is not set
