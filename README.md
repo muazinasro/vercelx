@@ -16,6 +16,7 @@
 1.Download Full Template ini.
 2.Buatlah Template Artikel dengan Format Header seperti di bawah ini..
 
+~~~ MD
 +++
 title = "[TITLE]"
 description = "[TITLE]"
@@ -26,6 +27,7 @@ categories = [
 ]
 image = "gambar.png"
 +++
+~~~ 
 
 3.Save Template
 4.Grab Artikel MD
