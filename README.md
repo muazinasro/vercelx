@@ -13,8 +13,8 @@
 
 ## Cara Membuat Artikel memakai Ali Markdown Suite memakai Theme ini
 
-1.Download Full Template ini.
-2.Buatlah Template Artikel dengan Format Header seperti di bawah ini..
+- Download Full Template ini.
+- Buatlah Template Artikel dengan Format Header seperti di bawah ini..
 
 ~~~ MD
 +++
@@ -29,10 +29,11 @@ image = "gambar.png"
 +++
 ~~~ 
 
-3.Save Template
-4.Grab Artikel MD
-5.Download
-6.Extract 
-7.Upload File semua .md ke Folder Content / Posts
-8.Deploy via Netlify atau Vercel.
+- Save Template
+- Grab Artikel MD
+- Download
+- Extract 
+- Upload File semua .md ke Folder Content / Posts
+- Deploy via Netlify atau Vercel.
+- Panduan Deploy ke Netlify dan Vercel cek Video Saya.
 
