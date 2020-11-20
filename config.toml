@@ -1,7 +1,6 @@
 baseurl = "https://getiphones.vercel.app/"  # Include trailing slash
 title = "Get iPhones"
 theme = "hugo-swift-theme"
-# theme = "swift"
 author = "Rifan Muazin"
 copyright = "Copyright © 2020, Rifan Muazin; all rights reserved."
 canonifyurls = true
